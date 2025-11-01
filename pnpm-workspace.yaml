@@ -1,0 +1,7 @@
+onlyBuiltDependencies:
+  - '@tailwindcss/oxide'
+  - esbuild
+  - spawn-sync
+
+patchedDependencies:
+  '@monaco-editor/loader@1.5.0': patches/@monaco-editor__loader@1.5.0.patch

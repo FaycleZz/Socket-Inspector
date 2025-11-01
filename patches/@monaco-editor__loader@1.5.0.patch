@@ -1,0 +1,12 @@
+diff --git a/lib/es/config/index.js b/lib/es/config/index.js
+index b86433d2743d65bba5aac3e422777e7375b755cd..06b7552f203f6f51a89eeb7015051d5d6cf1e788 100644
+--- a/lib/es/config/index.js
++++ b/lib/es/config/index.js
+@@ -1,6 +1,6 @@
+ var config = {
+   paths: {
+-    vs: 'https://cdn.jsdelivr.net/npm/monaco-editor@0.52.2/min/vs'
++    vs: ''
+   }
+ };
+ 

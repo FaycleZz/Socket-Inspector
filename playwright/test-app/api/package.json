@@ -1,0 +1,16 @@
+{
+  "name": "api",
+  "module": "server.js",
+  "type": "module",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "scripts": {
+    "serve": "bun server.ts",
+    "watch": "bun --watch server.ts"
+  }
+}
